@@ -36,7 +36,7 @@ Follow these steps in order:
 
 
 ```bash
-git clone https://github.com/cal-poly-dxhub/video-summarizer-transcribe.git
+git clone https://github.com/cal-poly-dxhub/video-summarizer-ai.git
 
 
 ```
@@ -106,11 +106,9 @@ Fix: Use correct model ID (e.g., Claude 3); validate JSON structure; chunk long 
 
 
 ## Learn More
-
-
-- [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [Requests Library](https://docs.python-requests.org/en/latest/)
-- [Web Scraping Best Practices](https://www.scrapehero.com/how-to-prevent-getting-blacklisted-while-scraping/)
+[Amazon Transcribe Documentation] — https://docs.aws.amazon.com/transcribe/latest/dg/what-is-transcribe.html
+[StartTranscriptionJob API Reference] — https://docs.aws.amazon.com/transcribe/latest/dg/API_StartTranscriptionJob.html
+[GitHub Example: AWS Transcribe Pipeline] — https://github.com/aws-samples/aws-transcribe-example
 
 
 
