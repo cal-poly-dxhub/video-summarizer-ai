@@ -2,6 +2,7 @@
 
 
 Welcome to our AI Summer Camp project! This hands-on activity will teach you how to convert audio files into structured, easy-to-read summaries using **Amazon Transcribe** and **Amazon Bedrock**. You'll learn how to trigger and track transcription jobs, retrieve results, and generate bullet-point summaries using an LLM — all with Python and AWS.
+
 Video Link Tutorial: https://drive.google.com/file/d/1UkFAlLpEo_sR_fUloA3mLRNMNUdhoEIf/view?usp=drive_link
 ## Contact
 
